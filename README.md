@@ -30,7 +30,7 @@ Architecture: Modular and file-based structure
 
 Clone the repository:
 
-git clone https://github.com/your-username/MelodyHub.git
+git clone https://github.com/humeratasleem-sd/MelodyHub.git
 
 Navigate to the project directory:
 
