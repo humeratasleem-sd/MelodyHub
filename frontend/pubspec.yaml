@@ -1,0 +1,20 @@
+name: melodyhub
+description: A violet-themed Flutter music app with backend integration
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  audioplayers: ^5.2.1
+  file_picker: ^8.1.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png.jpeg
+    - assets/song.jpg
